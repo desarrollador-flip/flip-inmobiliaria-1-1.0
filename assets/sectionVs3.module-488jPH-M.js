@@ -1,0 +1,1 @@
+const o="_sectionContainer_z57kg_1",n="_sectionContenido_z57kg_13",t="_sectionContenido2_z57kg_41",e="_contenido_z57kg_61",i="_contenidoTexto_z57kg_77",c={sectionContainer:o,sectionContenido:n,sectionContenido2:t,contenido:e,contenidoTexto:i};export{c as s};
