@@ -1,0 +1,1 @@
+const i="/flip-inmobiliaria-1-1.0/assets/icono-venta-2-D9LHvAiN.png",n="_sectionContainer_akss9_1",o="_sectionContenido_akss9_13",t="_contenido_akss9_53",s="_contenidoTexto_akss9_69",e={sectionContainer:n,sectionContenido:o,contenido:t,contenidoTexto:s};export{i,e as s};
